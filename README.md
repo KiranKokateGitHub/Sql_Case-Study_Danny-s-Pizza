@@ -1,6 +1,4 @@
-# Sql_Case-Study_Danny-s-Pizza
-
-Case Study #1: 
+# Sql_Case-Study_Danny-Diner
 
 ## Danny's Diner
 
