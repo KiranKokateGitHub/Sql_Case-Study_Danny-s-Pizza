@@ -1,7 +1,9 @@
 # Sql_Case-Study_Danny-s-Pizza
 
-Case Study #1: Danny's Diner
-Image
+Case Study #1: 
+
+## Danny's Diner
+
 
 View the case study and my solution
 
@@ -9,7 +11,10 @@ Business Task:
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
 
 Entity Relationship Diagram:
-image
+
+![image](https://github.com/KiranKokateGitHub/Sql_Case-Study_Danny-s-Pizza/assets/138654368/5392bbd8-5468-424b-bf2a-c3d65efb138b)
+
+
 
 Case Study Questions:
 What is the total amount each customer spent at the restaurant?
