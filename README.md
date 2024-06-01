@@ -21,10 +21,7 @@ Danny has provided you with a sample of his overall customer data due to privacy
 You can inspect the entity relationship diagram and example data below.
 
 ## Entity Relationship Diagram
-
-![image](https://github.com/KiranKokateGitHub/Sql_Case-Study_Danny-s-Pizza/assets/138654368/fdfb23e1-f66c-4308-95a4-305e65ba038e)
-
-
+v![image](https://github.com/KiranKokateGitHub/Sql_Case-Study_Danny-s-Pizza/assets/138654368/8124f52f-b61a-4475-a852-287dfbf22098)
 
 Example Datasets
 All datasets exist within the dannys_diner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
