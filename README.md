@@ -18,6 +18,7 @@ Danny has provided you with a sample of his overall customer data due to privacy
 * sales
 * menu
 * members
+  
 You can inspect the entity relationship diagram and example data below.
 
 ## Entity Relationship Diagram
